@@ -1,5 +1,5 @@
-from player import Player
-from game import Game
+from src.player import Player
+from src.game import Game
 
 game = Game()
 game.setUp()
